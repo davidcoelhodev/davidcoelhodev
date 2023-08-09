@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm David Coelho</h1>
-<h3 align="center">My name is David Coelho and I am a Unity game developer, UX Designer, and Web programmer</h3>
+<h1 align="center">Hi 👋 I'm David Coelho</h1>
+<h3 align="center"> I am a Unity game developer, UX Designer, and Web programmer</h3>
 
 - 🔭 I’m currently working on **School project**
 
